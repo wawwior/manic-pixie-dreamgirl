@@ -1,0 +1,13 @@
+name = "Second Chance (Forge)"
+filename = "secondchanceforge-1.20-1.5.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/H6rTJkIn/versions/Mn6ADsOZ/secondchanceforge-1.20-1.5.1.jar"
+hash-format = "sha512"
+hash = "e0284f63e209e00066d330ff38c9403c89a34fee87ea4f649d9da02b3683d4d42c0cc4f2d9a7a7aa498265ccedb253a74174e9777aadebf3b0dcac3c4de95f8d"
+
+[update]
+[update.modrinth]
+mod-id = "H6rTJkIn"
+version = "Mn6ADsOZ"

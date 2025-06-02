@@ -1,0 +1,13 @@
+name = "manic-pixie-dreamgirl"
+author = "Wawwior"
+version = "1.2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "11c86922bf98ea083f92d32c17c179a84f6d5a891b01efa4d43411ba161be83e"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

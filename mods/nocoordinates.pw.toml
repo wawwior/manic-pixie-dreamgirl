@@ -1,0 +1,13 @@
+name = "NoCoordinates"
+filename = "NoCoords-1.20.x-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X23nf5gO/versions/ZVD1FIf4/NoCoords-1.20.x-1.2.jar"
+hash-format = "sha512"
+hash = "f58561dcfa172849a65ed0b1b11c494786e7379fcdf20ab5a95883e7de522ec5f3951a2b30c058e4593dce29a0d288fda28f96befcbfec5a513b8b77fc26164c"
+
+[update]
+[update.modrinth]
+mod-id = "X23nf5gO"
+version = "ZVD1FIf4"

@@ -1,0 +1,13 @@
+name = "stOpenGL-1041"
+filename = "suppressopengl1280-1.2.3-1041fork.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UEh4MOoy/versions/LNbYRh4L/suppressopengl1280-1.2.3-1041fork.jar"
+hash-format = "sha512"
+hash = "d87d3d96e9c39859c0c50170fc454930708a0b92fb4b4151e8b6938d1569ff9866183be2c5c6a0b9cccc67eb45243391a87355b13e40ced9f1a6ca80688ab905"
+
+[update]
+[update.modrinth]
+mod-id = "UEh4MOoy"
+version = "LNbYRh4L"

@@ -1,0 +1,13 @@
+name = "No More Villages"
+filename = "no-more-villages-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Iz8blYk/versions/1N7zR55G/no-more-villages-1.1.0.jar"
+hash-format = "sha512"
+hash = "a9e8a2c30894e6d2adba824482960ea35477b09afac50d99cea9d4c410b33a86a1d67f821f2cb84416de32c7ffd99a17362f43ab1f01f3e2902c2f5eae8a1b14"
+
+[update]
+[update.modrinth]
+mod-id = "1Iz8blYk"
+version = "1N7zR55G"
