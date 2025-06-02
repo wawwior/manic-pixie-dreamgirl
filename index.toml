@@ -466,11 +466,6 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
-file = "mods/threatengl.pw.toml"
-hash = "707ff8446adaecc31925fa37f9a0b8656174d0d4e909e433b091d0d4855691b5"
-metafile = true
-
-[[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "6bca71dea3e1199f71a40f2b9f7bc60d4cd7b104c81fa7aee58d184619c41ce7"
 metafile = true
