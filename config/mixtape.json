@@ -18,9 +18,9 @@
     "showArtistName": true,
     "showAlbumName": false,
     "showAlbumCover": false,
-    "useDiscItemAsAlbumCover": true,
+    "useDiscItemAsAlbumCover": false,
     "hideJukeboxHotbarMessage": true,
-    "useHotbarInsteadOfToast": false,
+    "useHotbarInsteadOfToast": true,
     "toastMakesSound": false,
     "remainForFullSong": false,
     "toastDisplayTime": 7500

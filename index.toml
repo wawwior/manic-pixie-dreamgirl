@@ -330,7 +330,7 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "config/mixtape.json"
-hash = "2acc9cc5841638e21f112ee110682e8b8adf96538228cce7b5901a2ce0d1d909"
+hash = "fbf1b5b71a47b74a70bc343888ba026066ab6fc57c1f1321136cf7b94d4bb782"
 
 [[files]]
 file = "config/modelfix-client.toml"
