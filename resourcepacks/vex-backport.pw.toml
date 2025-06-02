@@ -1,0 +1,13 @@
+name = "Vex Backport"
+filename = "VexBackport-16x-1.19.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "891b2452a2efb3df37f3d5dc484f7bece060a921"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4320581
+project-id = 803248

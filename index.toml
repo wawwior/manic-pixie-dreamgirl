@@ -1095,6 +1095,11 @@ hash = "af78510f669e055027ad1e6663a2943c11cddacdfb30bfb155df5207f0c00352"
 metafile = true
 
 [[files]]
+file = "resourcepacks/vex-backport.pw.toml"
+hash = "9fe3eb66bb16b253d3b7beb31dc836474c1c0b85682025e4c345f495b84d62d9"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
