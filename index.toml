@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixtape.pw.toml"
-hash = "863c13958ea8ee66dde55449592a0af91f73a52a5baaa91dd0849131595b0d3f"
+hash = "af6cdb226a453e835f81f5d1eea5a00c429603fb9a911ba27d29ed509a035444"
 metafile = true
 
 [[files]]

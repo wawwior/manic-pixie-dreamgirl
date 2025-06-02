@@ -1,13 +1,13 @@
 name = "Mixtape"
-filename = "Mixtape-1.6.2-1.20.1.jar"
+filename = "Mixtape-1.6.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mTd6rTN3/versions/17D6c1np/Mixtape-1.6.2-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/mTd6rTN3/versions/uRKiclig/Mixtape-1.6.1.jar"
 hash-format = "sha512"
-hash = "0059cd30d0dd1f6b3ecee7e5e6db3dcd508f8d24e9f5194ab2fbf694a274b747c2e6c7d704bdcbb0c60c078e461c2508ca5014f9b5034a1740d03c2a41c103e2"
+hash = "9a177ac314e90ba11c761ed0f4c0fffeedeb57610cd04a56fb1a885393b9fe194e1fa7b67acccdf7c356219e9051ce15850b6b6cfe9e9847eb137ccc1ab1655c"
 
 [update]
 [update.modrinth]
 mod-id = "mTd6rTN3"
-version = "17D6c1np"
+version = "uRKiclig"
