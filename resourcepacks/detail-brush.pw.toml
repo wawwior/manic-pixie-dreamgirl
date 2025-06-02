@@ -1,0 +1,13 @@
+name = "Detail Brush"
+filename = "Detail-Brush-1.6-1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N5b9zcOL/versions/KbH0kaPw/Detail-Brush-1.6-1.20.zip"
+hash-format = "sha512"
+hash = "36791754273f1482061e9dda4d273dc9979368911f371cde1dcbf2a76b09f2d1fe1a808bf58e40546aa207e44a7dd47baa84a89bbdd0831d15d844b375763c75"
+
+[update]
+[update.modrinth]
+mod-id = "N5b9zcOL"
+version = "KbH0kaPw"

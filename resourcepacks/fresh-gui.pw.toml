@@ -1,0 +1,13 @@
+name = "Fresh Gui"
+filename = "FreshGui_1.0_v1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TcEKIE6a/versions/KglD0vlj/FreshGui_1.0_v1.20.zip"
+hash-format = "sha512"
+hash = "8ff574998cd784312f87acd0a3c31c42f2bd221fda4696da3250e7ae4b2efd45435f2c67fb9cb0f51bca0f7ada4b5dc51c260b483880cac1ad15544ef69c6941"
+
+[update]
+[update.modrinth]
+mod-id = "TcEKIE6a"
+version = "KglD0vlj"

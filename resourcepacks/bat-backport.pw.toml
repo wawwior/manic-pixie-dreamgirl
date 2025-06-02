@@ -1,0 +1,13 @@
+name = "Bat Backport"
+filename = "BatBackport-16x-v1.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aee1ab339c30e7d4892e5e561f2ef305a9599a30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4868322
+project-id = 930515

@@ -519,3 +519,43 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
 metafile = true
+
+[[files]]
+file = "resourcepacks/antique-atlas-4-compat.pw.toml"
+hash = "e242fdf5a2a8816a17e8ef2f8afc2e15e1ec666c9df25eace1303ad7757ff9a7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bat-backport.pw.toml"
+hash = "88cade5f1f77ac31c717b74724d200ef1b09c1819f063da3f32f543a246e1245"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detail-brush.pw.toml"
+hash = "c1693318b2a8aab90324bf027e6d9c74cd7ced0d6ff6cc432ecd6463cc3751ff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-better-dirt.pw.toml"
+hash = "248031494f50b140e19984b9f4e29ea1a4a02f2658d2525df2efd5fe95fce85d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-re-crafted.pw.toml"
+hash = "6d900b933edd6cd819dd1595a1a39102f096f0172af2fb7caa043b7d9cb98050"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-re-create.pw.toml"
+hash = "280a2d859056df72a687ca4bb722290612620b088d6d676a15fa5a58a63aa6cf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-gui.pw.toml"
+hash = "af78510f669e055027ad1e6663a2943c11cddacdfb30bfb155df5207f0c00352"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
