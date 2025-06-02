@@ -114,7 +114,7 @@ hash = "45350b95959d91acdc6dd6bd42315f0f1f8a77f0b04943fa0568c741d8a19c55"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "13a35a8501824eecbdb17c8577afc3ce7a98a7c73cb10d3e9c76c66ad47592f3"
+hash = "ece1090bbb5056e7efe7d79900d60a00e29ab9932da6e2caff1eccb062b260ae"
 
 [[files]]
 file = "config/cactus_config.toml"
@@ -1058,10 +1058,6 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "3af90e30e7f26f818fc8364d3b0d1fbb2b1e76c1ccc02bdf48b92a8f9c090406"
 
 [[files]]
 file = "resourcepacks/antique-atlas-4-compat.pw.toml"
