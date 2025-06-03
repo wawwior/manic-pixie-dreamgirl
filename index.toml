@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "2c7a28f8adb455c8ee9414627f1c347abc2c123bd94dd5daca5c3c140e927210"
+hash = "30b5a90befb055fd18307700fa5eafdf4cd26d4c922fa780b5738f7656f3d650"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+hash = "a7a9c1b4634c525d9a4a70c097e61dbd9751d1438c90d2db65b106c321ba72f2"
 metafile = true
 
 [[files]]
