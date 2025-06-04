@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "1e98bf611641e64b17ee988fe2fdf2b9e621f4010d19c2826ce84d63d54e9fb4"
-
-[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -81,10 +77,6 @@ file = "config/betterwitchhuts-forge-1_20.toml"
 hash = "7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8"
 
 [[files]]
-file = "config/blossom.json"
-hash = "bee55d4d1711d4d6b92a92caec8c3bb29157fa42cd86954755ccfb93b9af25f8"
-
-[[files]]
 file = "config/blueprint-client.toml"
 hash = "bfcfb80974100b4371be80105488e537c066cd3651d35d977a91e158e23cad60"
 
@@ -139,18 +131,6 @@ hash = "dbe37e2d61604665c4c0bd7ad6c1cbeadf7f64952ec53685b57b50ea979074f8"
 [[files]]
 file = "config/clayworks-common.toml"
 hash = "9eb76ea458f7ab2b98d193301458c7733218338af9818f63de42488dec235032"
-
-[[files]]
-file = "config/cloud-layers.json"
-hash = "f79956f6236dea6cc990c4be48c71f740d5310619bf21427e186fc3a6b01b6bf"
-
-[[files]]
-file = "config/combatify.json"
-hash = "a069f0984a39ae0c2b5232c94551a78811584d28a4fd1425c3395e8b1a7df9a1"
-
-[[files]]
-file = "config/combatify/combatify-items.json"
-hash = "57a2dc3d14aa15f811f69bf9d9e5823613c6a8da48eafb221df23ef4450bc91c"
 
 [[files]]
 file = "config/comfortable_campfires.json"
@@ -277,10 +257,6 @@ file = "config/forge-client.toml"
 hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
 
 [[files]]
-file = "config/friendsandfoes.json"
-hash = "79335d4aa2e65cc48a2e221cf873efafe45a92da343f95b96e62159471caabff"
-
-[[files]]
 file = "config/fzzy_config/keybinds.toml"
 hash = "6405aeb7dbb69bed591c2eb6d6ca5a24dfffb0f01425b6026df4afd3aaf56826"
 
@@ -345,10 +321,6 @@ file = "config/modernfix-mixins.properties"
 hash = "f7a8763bcae5300b314deac169b15e3cf7af4e9bea58d12f28732f65de770c16"
 
 [[files]]
-file = "config/molten_metals-common.toml"
-hash = "e5a25ca6f47faac294f431a73170e60f36dfc8f4c7356fc29839151791b4ee8c"
-
-[[files]]
 file = "config/moonlight-client.toml"
 hash = "f7135f0beb4eec4e7e3314502086a96a371c73e8fe4249e727b1eb5088ce8725"
 
@@ -389,26 +361,6 @@ file = "config/peeping_angels-common.toml"
 hash = "da605e99ce3c746d35ca124e2c171be2d39ac79a82260e581914fb4483d46b43"
 
 [[files]]
-file = "config/polymer/client.json"
-hash = "3825827c0ee37a298343a1975e66daeb0291d541124526d254bb4a544824daa2"
-
-[[files]]
-file = "config/polymer/common.json"
-hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
-
-[[files]]
-file = "config/polymer/networking.json"
-hash = "2057a3b3b89214439199107df8a7fde5b76994d606af8f17c5872f8627f01bce"
-
-[[files]]
-file = "config/polymer/resource-pack.json"
-hash = "3f7d72ba47fc2dded9abac4df53416d7548fb7b2383b4310f7e63d571bac1bb4"
-
-[[files]]
-file = "config/polymer/server.json"
-hash = "7c9836cd8ee74f2a3e91a5d9fe2ab95716bfb6713fbde3f60ee5248c84fc3c26"
-
-[[files]]
 file = "config/ponder-client.toml"
 hash = "7508f3f5ceed80c7c606d01ee2dc93e2c72a8afa199ccb691fc5225c894d5bbd"
 
@@ -427,14 +379,6 @@ hash = "9dd658b7841ec3dc96eccd99d84f0c6ed42693e58a9c2560327ab6c4ea5b07c0"
 [[files]]
 file = "config/resourceful-config-web.json"
 hash = "f186947e985a0b4a6bdea84e4a8943bb1cbc5f59c5ee629af71efd2c930e5fc5"
-
-[[files]]
-file = "config/savage_and_ravage-client.toml"
-hash = "5ea5f94418499785bdbecba6820436133f205960bf85c64f29b7ef719a2c400d"
-
-[[files]]
-file = "config/savage_and_ravage-common.toml"
-hash = "5b8314ac671a7269ce69283555cac8e2f6b8db911470c0c7ea9c594f8c78a6e7"
 
 [[files]]
 file = "config/sawmill-common.toml"
@@ -499,46 +443,6 @@ hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
 [[files]]
 file = "config/terrablender.toml"
 hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
-
-[[files]]
-file = "config/universal-graves/config.json"
-hash = "8352531a01430f5b832abdd24a17d835ad0f34b432c0aa3f404978e3a491aadf"
-
-[[files]]
-file = "config/universal-graves/example_models/corpse_player.json"
-hash = "7a5d06bb65a05beabb48f74a7f9aead1ddd88cbed5033ce8a284c1504a545eac"
-
-[[files]]
-file = "config/universal-graves/example_models/corpse_zombie.json"
-hash = "6f8b61ca512ac41462824a4642e2019abdb6778e79d3925a818924233e532a75"
-
-[[files]]
-file = "config/universal-graves/example_models/default.json"
-hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
-
-[[files]]
-file = "config/universal-graves/example_models/player_head.json"
-hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
-
-[[files]]
-file = "config/universal-graves/example_models/soul.json"
-hash = "8bc1f191013d43b91bba381b6ff627fdd78156e39aac582607c7dd4888939198"
-
-[[files]]
-file = "config/upgrade_aquatic-client.toml"
-hash = "ce722a7046bd9ef1f0a4a870d5ba5eaaf1141db00a142aefe3c07a0430b79942"
-
-[[files]]
-file = "config/upgrade_aquatic-common.toml"
-hash = "bd22a678f68790f0cf276f04df8912c65c51842801ddcc431a266a9f9aabe73a"
-
-[[files]]
-file = "config/waygl_client.json5"
-hash = "fd3f1713fce305762b834bbea2fa76f335c215b7590d3116eaaa8165fd1fd070"
-
-[[files]]
-file = "config/woodworks-common.toml"
-hash = "3a57f82e35564434ad2eb91057ac2c616c10279aec28e111aa3a0dc9dba26d3b"
 
 [[files]]
 file = "config/yacl.json5"

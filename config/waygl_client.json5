@@ -1,4 +1,0 @@
-{
-	useNativeGlfw: false,
-	nativeGlfwPath: "/usr/lib/libglfw.so"
-}
