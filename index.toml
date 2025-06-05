@@ -619,11 +619,6 @@ hash = "9eaeb03f62828ce0b3490196abc8b5c4e46c88abbd8db335c2f4d30e37e1a6be"
 metafile = true
 
 [[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
-metafile = true
-
-[[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "4e77452de64a8038260a173a36702830e264bf23b47bc12f33ebbcdc52e8d519"
 metafile = true
