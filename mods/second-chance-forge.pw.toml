@@ -1,6 +1,6 @@
 name = "Second Chance (Forge)"
 filename = "secondchanceforge-1.20-1.5.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/H6rTJkIn/versions/Mn6ADsOZ/secondchanceforge-1.20-1.5.1.jar"

@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "57c0f350262f81f6768226f833a7bc3d6d9d6342c4e2c77a0f477043483c42b9"
+hash = "e860a4d8ccff8c2b14487c96627c8e34743db1f9854216fb8c87f525f50bcb5b"
 metafile = true
 
 [[files]]
@@ -870,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/second-chance-forge.pw.toml"
-hash = "85f44d67b7d32fe60619faf5274b1bef4e1981ec3761b13951f34a93c6b34099"
+hash = "4eec477ec07e05682bf21f9711465c81abdacc65ea1ea6cfa31d81b5208f7079"
 metafile = true
 
 [[files]]
