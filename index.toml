@@ -844,11 +844,6 @@ hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
-metafile = true
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
