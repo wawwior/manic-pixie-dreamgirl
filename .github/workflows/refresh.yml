@@ -1,0 +1,35 @@
+---
+name: refresh
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      # checkout
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      # setup nix
+      - uses: cachix/install-nix-action@v31
+        with:
+          github_access_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # run packwiz refresh
+      - name: Run packwiz refresh
+        run: |
+          nix develop --command packwiz refresh
+
+      # commit changes
+      - uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: 'chore: [auto-generated] packwiz refresh'
+
+      
