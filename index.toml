@@ -639,6 +639,11 @@ hash = "9c553500c771ace491481e52fb2a144e97ce332f03bc36155b62bcf5e64877ed"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "c5c82bddcf60924dc3cf41ed85468c520e3e1f32dbc02201f3e449a5a26cd547"
+metafile = true
+
+[[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "4e77452de64a8038260a173a36702830e264bf23b47bc12f33ebbcdc52e8d519"
 metafile = true
@@ -671,11 +676,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "4c5ec7476521092a74d8ae1b894e44903a3d7834898674294f0ce4ddb040b251"
-metafile = true
-
-[[files]]
-file = "mods/essential.pw.toml"
-hash = "e379ec87d18178617ff9d2229c5ddb58bb72fce6726c1909a0b3c0e8fb074f35"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+hash = "4bdf4efade5b9448d5257ef4c327e173bb0f37b9ac95b861340109016f4e2de2"
 metafile = true
 
 [[files]]
