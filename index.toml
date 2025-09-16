@@ -794,6 +794,11 @@ hash = "c1eb189d7a4eed52389aa46fc6dc3c5f140389c5748f7bec0faac01a84a60817"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "b71ebab572583fcca1a864236e233a84c637bf00c78f0d1240b742763c0375d8"
+metafile = true
+
+[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "019b1fc9ddc90219203532bf68538e1f1b2487599c6c9b9a3a074df0abd66b48"
 metafile = true
