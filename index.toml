@@ -809,6 +809,11 @@ hash = "6039fa77bfd0871c009092508bbaaed5f25947af425943fe3a2c8e6b32cd3102"
 metafile = true
 
 [[files]]
+file = "mods/natures-delight.pw.toml"
+hash = "0ecf1cc5f9da3d914e86e179850eeb712bb8e458ae46f23650495dc866a4974f"
+metafile = true
+
+[[files]]
 file = "mods/natures-melody.pw.toml"
 hash = "eedcfc6df9662b85d0995a103551b13bd89a354fe02dbbddf45ddae96cf84735"
 metafile = true
