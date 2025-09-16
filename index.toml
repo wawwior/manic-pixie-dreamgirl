@@ -614,11 +614,6 @@ hash = "4f64bc81a381a3cb0c637829d547d8b0f5daa0ea29fe84a9e43a91784763745e"
 metafile = true
 
 [[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "8f4676e10300eafe6969cb04e9e1d59424c957e97f5dea241472409f48c483f9"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
