@@ -609,6 +609,16 @@ hash = "30b5a90befb055fd18307700fa5eafdf4cd26d4c922fa780b5738f7656f3d650"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "1e2f20e482537a35dcf6be7814984f2ee75ed37f1f1861424e9c936727445c41"
+metafile = true
+
+[[files]]
 file = "mods/create-structures.pw.toml"
 hash = "4f64bc81a381a3cb0c637829d547d8b0f5daa0ea29fe84a9e43a91784763745e"
 metafile = true
