@@ -1,13 +1,13 @@
 name = "Portfolio"
-filename = "portfolio-1.20.1-1.4.0-forge.jar"
+filename = "portfolio-1.20.1-1.5.0-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2k6aLirX/versions/apOmeZ8h/portfolio-1.20.1-1.4.0-forge.jar"
+url = "https://cdn.modrinth.com/data/2k6aLirX/versions/9jAmDkFc/portfolio-1.20.1-1.5.0-forge.jar"
 hash-format = "sha512"
-hash = "1eb5e4437f1633ccde7c38d5c0d506ef8d6a17604bfd53fb1d4bdb1984ee236757082a05c278dd6769a72992c4bc8ec84e299d60c98fb32b2bbccc76d8c857fe"
+hash = "5d855d22d8905ee81e10d73f18642d318fbbd0080e06ec05f1102bcd8d1bdfbf1775497765fb120a3201c0fad5751bc7b0dbb362b1fb2ef37632b5fc9489c4cc"
 
 [update]
 [update.modrinth]
 mod-id = "2k6aLirX"
-version = "apOmeZ8h"
+version = "9jAmDkFc"
