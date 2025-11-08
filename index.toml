@@ -564,11 +564,6 @@ hash = "77eb951aea38d711bb8bddd89b66b65a2ce7423d93525843a409b57e03f02fa1"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
-metafile = true
-
-[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "d1a1614acad3bd48477c1047c72e6d088c1760aab683ebfdb6da3c7529a9ee97"
 metafile = true
