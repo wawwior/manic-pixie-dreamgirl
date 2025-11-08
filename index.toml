@@ -939,11 +939,6 @@ hash = "4bc420f77cac5e4ededc3c1f67d937757220aa81a1c6657515d29a74af01703e"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
 file = "mods/stopengl-1041.pw.toml"
 hash = "b0ac42227f93c5f644a4c5ed34d68cf27af7ec470481652b6cae000cb75e873d"
 metafile = true
