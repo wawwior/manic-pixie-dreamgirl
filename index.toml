@@ -644,6 +644,11 @@ hash = "c5c82bddcf60924dc3cf41ed85468c520e3e1f32dbc02201f3e449a5a26cd547"
 metafile = true
 
 [[files]]
+file = "mods/easel-does-it.pw.toml"
+hash = "ec7a42af659dcff51d4ab744ef3edc40914c4267ee6bf87e39cfa8fe4eb8d617"
+metafile = true
+
+[[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "4e77452de64a8038260a173a36702830e264bf23b47bc12f33ebbcdc52e8d519"
 metafile = true
@@ -874,6 +879,11 @@ hash = "6a08b6fbc58291eba0bbca305a4f6b1ba2a703ef21eff995b3df278c5725c1f6"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "b1f540bb76039ab86c9160d8d92ca93fe21559aef95f1e5819f7061740c6e8a6"
+metafile = true
+
+[[files]]
 file = "mods/portfolio.pw.toml"
 hash = "9956ce4c5d3a82d5fc944bfaa15000750fe31965b3a4278a2d7499093933e667"
 metafile = true
@@ -896,6 +906,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "ee402b020df43ac4265f5fcdb375798f31ea31862bd25445b5e78dc101de1000"
 metafile = true
 
 [[files]]
@@ -956,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "231e9ce2be39e75b040f4fcd8ae12c8aabb897dacad0a589ee1f12f014b6e02e"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "d4bcebc5c2ca1cf4b113959d2ad443c3c63a8a161df11e1bcbde5b5244a83e1a"
 metafile = true
 
 [[files]]

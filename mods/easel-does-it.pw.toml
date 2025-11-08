@@ -1,0 +1,13 @@
+name = "Easel Does It!"
+filename = "[DOLT] easel_does_it-1.20.1-1.0.7-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaKy2xRK/versions/8wNJjYC2/%5BDOLT%5D%20easel_does_it-1.20.1-1.0.7-all.jar"
+hash-format = "sha512"
+hash = "3bedea0ecb659747897bef3273a3af7f017d718d7b830dce1c1f38e7e806b893ccc9f080652792cb7cc8425ddfc66f6be4cc06e59d6ff4b020bb5c3dad7184a6"
+
+[update]
+[update.modrinth]
+mod-id = "SaKy2xRK"
+version = "8wNJjYC2"
