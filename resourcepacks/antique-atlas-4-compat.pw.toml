@@ -1,13 +1,13 @@
 name = "Antique Atlas 4 Compat"
-filename = "§6Antique Atlas 4 §fCompat§8§o§k.zip"
+filename = "Antique_Atlas_4_Compat_v1.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EZrcB8Mu/versions/4ZdTguPl/%C2%A76Antique%20Atlas%204%20%C2%A7fCompat%C2%A78%C2%A7o%C2%A7k.zip"
+url = "https://cdn.modrinth.com/data/EZrcB8Mu/versions/Hlo7eUta/Antique_Atlas_4_Compat_v1.3.zip"
 hash-format = "sha512"
-hash = "4b039537d4064701f660c3d250f6702213295f13f3ec10c7d6e453c16dd91b917d54b7614c944490e82c2eb8e0538c44a537fad819d041a131d99eb6223d4ae1"
+hash = "630e89f16b27998cce45658d7ec692c6fe2018a7c7d4c8b3d4c7e6a0666b15855048a89f1f6764a5d216f263c9bf3ee5450e21a2b608c9ad51fe51902c4a290b"
 
 [update]
 [update.modrinth]
 mod-id = "EZrcB8Mu"
-version = "4ZdTguPl"
+version = "Hlo7eUta"

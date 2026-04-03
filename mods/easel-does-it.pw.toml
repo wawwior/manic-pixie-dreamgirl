@@ -1,13 +1,13 @@
 name = "Easel Does It!"
-filename = "easel_does_it-1.20.1-1.0.8-all.jar"
+filename = "easel_does_it-1.20.1-1.0.9-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SaKy2xRK/versions/FIUuSfdK/easel_does_it-1.20.1-1.0.8-all.jar"
+url = "https://cdn.modrinth.com/data/SaKy2xRK/versions/dP4gEQHN/easel_does_it-1.20.1-1.0.9-all.jar"
 hash-format = "sha512"
-hash = "468d1b4bbad3493694c4518e852fdb6fddf3b4b1f3958fd487d7365aefd2dec7ed68579a1f44b7a3e8f7b3f341337caa2db0d8f373b348a7a59a930c40e0e5ce"
+hash = "0c70af17a9adfdd31f256da636983cd3ae599e28429a1891616315d1051cc09bfe823fe500c5090a27a4cb21d7d15dcc35afeaaa05bf8f3845b2e7f5263d1294"
 
 [update]
 [update.modrinth]
 mod-id = "SaKy2xRK"
-version = "FIUuSfdK"
+version = "dP4gEQHN"
